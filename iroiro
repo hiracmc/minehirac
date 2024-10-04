@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HIRAC</title>
+  <meta charset="UTF-8">
+
+  <style>
+    @font-face {
+  font-family: "UniFont";
+  src:
+    url("https://hiracmc.github.io/minehirac/unifont.woff"),
+    }
+
+   .ver {
+  position: fixed;
+  bottom: 0px;/*自分が固定したい位置(例は上から0pxの位置)*/
+  left: 0px;/*自分が固定したい位置(例は左から10pxの位置)*/
+      font-family: "UniFont", serif;
+}
+     .ver2 {
+  position: fixed;
+  bottom: 0px;/*自分が固定したい位置(例は上から0pxの位置)*/
+  right: 0px;/*自分が固定したい位置(例は左から10pxの位置)*/
+      font-family: "UniFont", serif;
+}
+body {
+background-image: url("https://ul.h3z.jp/wIKHma16.png");
+background-attachment: fixed;
+  background-repeat: no-repeat;
+  text-align: center;
+  background-size: cover;
+}
+
+</style>
+</head>
+<body>
+  <br/><br/><br/><br/><br/>
+<div class="image">
+<img src="https://ul.h3z.jp/4tUzR57K.png" width="400px">
+  <br/><br/><br/><br/><br/>
+  <a href="https://hiracmc.github.io/hirac.github.io/"><img src="https://ul.h3z.jp/bnVo7kBA.png" width="400px"></a>
+</div>
+  <div class="ver">
+<h3><font color="white">HomePage v1.0.1</h3>
+<div>
+  <div class="ver2">
+<h3><font color="white">@HIRAC 2024</h3>
+<div>
+</body>
+</html>
